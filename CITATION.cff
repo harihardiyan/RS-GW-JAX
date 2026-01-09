@@ -6,5 +6,8 @@ authors:
     email: "lorozloraz@gmail.com"
 title: "RS-GW-JAX: Differentiable Randall-Sundrum-Goldberger-Wise Solver"
 version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18203099
 date-released: 2026-01-10
-url: "https://github.com/username-anda/RS-GW-JAX-Solver"
+url: "https://github.com/harihardiyan/RS-GW-JAX"
