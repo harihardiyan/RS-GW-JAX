@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hardiyan"
+    given-names: "Hari"
+    email: "lorozloraz@gmail.com"
+title: "RS-GW-JAX: Differentiable Randall-Sundrum-Goldberger-Wise Solver"
+version: 1.0.0
+date-released: 2026-01-10
+url: "https://github.com/username-anda/RS-GW-JAX-Solver"
