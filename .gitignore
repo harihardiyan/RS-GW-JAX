@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JAX/XLA temporary files
+.jax_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Plotting output
+plots/*.png
+results.npz
