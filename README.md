@@ -4,7 +4,7 @@
 
 [![JAX](https://img.shields.io/badge/Framework-JAX-blue.svg)](https://github.com/google/jax)
 [![Physics](https://img.shields.io/badge/Physics-Extra%20Dimensions-orange.svg)](https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model)
-
+![RS-GW Profile](rs_profile.png)
 ## Overview
 
 **RS-GW-JAX** is a high-precision numerical framework designed to solve the gravitational and scalar field profiles in the **Randall-Sundrum (RS)** model stabilized by the **Goldberger-Wise (GW)** mechanism. 
