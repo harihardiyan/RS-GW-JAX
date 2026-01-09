@@ -2,6 +2,7 @@
 
 # RS-GW-JAX: Differentiable Randall-Sundrum-Goldberger-Wise Solver
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18203099.svg)](https://doi.org/10.5281/zenodo.18203099)
 [![JAX](https://img.shields.io/badge/Framework-JAX-blue.svg)](https://github.com/google/jax)
 [![Physics](https://img.shields.io/badge/Physics-Extra%20Dimensions-orange.svg)](https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model)
 ![RS-GW Profile](rs_profile.png)
@@ -71,6 +72,11 @@ The core novelty of this solver is the transition from static numerical methods 
 This project reflects a passion for bridging the gap between **Artificial Intelligence (Differentiable Programming)** and **High Energy Theoretical Physics**.
 
 ---
+## Citation
+
+If you use this solver in your research, please cite it using the following DOI:
+
+**Hardiyan, H. (2026). RS-GW-JAX: Differentiable Randall-Sundrum-Goldberger-Wise Solver. Zenodo. [https://doi.org/10.5281/zenodo.18203099](https://doi.org/10.5281/zenodo.18203099)**
 
 ## License
 
